@@ -4,10 +4,10 @@ Welcome to my personal portfolio! 👋
 This repository showcases my projects, skills, and experience as a developer.
 
 ## 🌐 Live Demo
-🔗 [View Portfolio](https://your-portfolio-link.com)
+🔗 [View Portfolio](https://cook-cxb.github.io/personal-portfolio/)
 
 ## 📌 About Me
-Hi, I'm **Your Name**, a **Your Role (e.g. Frontend Developer / Full Stack Developer / Software Engineer)** with a passion for building clean, user-friendly, and scalable applications.
+Hi, I'm **Aizaz Ullah Khan**, a **Machine Learning Engineer** with a passion for building clean, user-friendly, and scalable applications.
 
 - 💻 Interested in: Web Development, UI/UX, APIs, Performance
 - 🎯 Currently learning: Your current focus (e.g. React, Next.js, AWS)
