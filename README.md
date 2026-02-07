@@ -130,7 +130,7 @@ Let’s build something interesting 🚀
 - Email: tadashiatwork@gmail.com
 - GitHub: https://github.com/cook-cxb
 - LinkedIn: https://linkedin.com/in/aizaz-ullah-khan-niazi-413318197
-- Portfolio: https://
+- Portfolio: https://cook-cxb.github.io/personal-portfolio/
 
 ---
 
